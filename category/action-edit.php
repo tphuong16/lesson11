@@ -9,5 +9,5 @@
          'name' => $name
      ];
      $categoryConnection->updateData($data);
-    header("Location: http://localhost/learn_php/category/index.php");
+    header("Location: http://localhost/lesson11/category/index.php");
 ?>
