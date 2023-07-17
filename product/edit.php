@@ -13,7 +13,7 @@
 </head>
 <body>
     <div class="container mt-3">
-        <a href="index.php" class="btn" style="margin-right: 6px"> < Back</a>
+        <a href="index.php" class="btn" style="margin-right: 5px"> < Back</a>
         <h3>Update Product</h3>
         <?php 
             $prodId = [
