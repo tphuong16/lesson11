@@ -12,7 +12,7 @@ $cate = $categoryConnection->getData();
 </head>
 <body>
     <div class="container mt-3">
-        <a href="index.php" class="btn" style="margin-right: 6px"> < Back</a>
+        <a href="index.php" class="btn" style="margin-right: 5px"> < Back</a>
         <h3>Create New Product</h3>
         <form action="action-create.php" method="POST">
         <div class="mb-3">
