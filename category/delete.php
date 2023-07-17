@@ -7,5 +7,7 @@
         'id' => $id
     ];
     $categoryConnection->deleteData($data);
+
+    header("Location: http://localhost/lesson11/category/index.php");
 ?>
 
